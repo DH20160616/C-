@@ -37,7 +37,7 @@ int main()
 	volume = box1.length * box1.breadth*box1.height;
 	cout<<"the volume of box1:"<<volume<<endl;
 	
-	box2.set(5.0,6.0,7.0);
+	box2.set(5.0,12.0,7.0);
 	volume = box2.GetVolume();
 	cout<<"the volume of box2:"<<volume<<endl;
 
